@@ -1,0 +1,17 @@
+{
+  "name": "Paradise Cakes by Sangeeta Agrawal",
+  "short_name": "Paradise Cakes",
+  "description": "Handcrafted cakes and pastries made with love. Perfect for any occasion.",
+  "start_url": "https://www.paradisecakes.xyz",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "500x500",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+} 

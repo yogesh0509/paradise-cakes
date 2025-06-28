@@ -78,7 +78,7 @@ export function ProductCard({ product }: ProductCardProps) {
             `Price: ₹${typeof product.price === 'number' ? product.price.toFixed(2) : product.price}\n` +
             `Quantity: ${product.quantity}\n` +
             `Please confirm availability and decoration options.\n\n` +
-            `${product.images?.[0] ? `Product image: https://thecakemakers.com${product.images[0]}` : ''}`
+            `${product.images?.[0] ? `Product image: https://www.paradisecakes.xyz/${product.images[0]}` : ''}`
           )}`}
           target="_blank"
           rel="noopener noreferrer"
