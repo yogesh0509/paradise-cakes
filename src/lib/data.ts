@@ -96,7 +96,7 @@ export const products: Product[] = [
     id: "butterscotch-icecream-cake",
     name: "Butterscotch Ice Cream Cake",
     description: "Delicious cake layered with butterscotch ice cream. A cool treat for summer.",
-    price: 600,
+    price: 650,
     images: ["/images/cakes/butterscotch-icecream-cake.jpg"],
     category: "special",
     quantity: "1 pound (455gm)"
@@ -105,7 +105,7 @@ export const products: Product[] = [
     id: "mango-ice-cream-cake",
     name: "Mango Ice Cream Cake",
     description: "Seasonal cake with layers of fresh mango ice cream and sponge.",
-    price: 600,
+    price: 650,
     images: ["/images/cakes/mango-ice-cream-cake.jpg"],
     category: "special",
     quantity: "1 pound (455gm)"
@@ -132,7 +132,7 @@ export const products: Product[] = [
     id: "walnut-choco-fudge-brownie",
     name: "Walnut Choco Fudge Brownie",
     description: "Rich chocolate brownies loaded with walnuts. Fudgy and decadent.",
-    price: 500,
+    price: 575,
     images: ["/images/cakes/walnut-choco-fudge-brownie.jpg"],
     category: "cupcakes, brownies, tarts",
     quantity: "1 pound (455gm)"
@@ -186,7 +186,7 @@ export const products: Product[] = [
     id: "fresh-fruit-cake",
     name: "Fresh Fruit Cake",
     description: "Light sponge cake topped with assorted fresh fruits.",
-    price: 800,
+    price: 750,
     images: ["/images/cakes/fresh-fruit-cake.jpg"],
     category: "indian specials",
     quantity: "1 pound (455gm)"
@@ -213,7 +213,7 @@ export const products: Product[] = [
     id: "plum-cake",
     name: "Plum Cake",
     description: "Rich fruit cake loaded with dried fruits and nuts. Christmas special.",
-    price: 600,
+    price: 650,
     images: ["/images/cakes/plum-cake.jpg"],
     category: "special",
     quantity: "1 pound (455gm)"
@@ -324,7 +324,7 @@ export const products: Product[] = [
     id: "suji-coconut-malai",
     name: "Suji Coconut Malai Cake",
     description: "A tropical delight with fresh coconut and malai cream! This uniquely Indian fusion cake celebrates the rich flavors of fresh coconut and creamy malai.",
-    price: 450,
+    price: 500,
     images: ["/images/cakes/coconut-malai.jpg"],
     category: "indian specials",
     quantity: "1 pound (455gm)"
@@ -333,7 +333,7 @@ export const products: Product[] = [
     id: "mawa-cake",
     name: "Mawa Cake",
     description: "A beloved Parsi bakery specialty! Our homemade mawa cake is dense, moist and aromatic with cardamom. A perfect companion for your evening chai.",
-    price: 550,
+    price: 600,
     images: ["/images/cakes/mawa-cake.jpg"],
     category: "indian specials",
     quantity: "1 pound (455gm)"
@@ -351,7 +351,7 @@ export const products: Product[] = [
     id: "marble-cake",
     name: "Marble Cake",
     description: "Beautiful swirls in every slice! Our homemade marble cake is a visual delight that tastes as good as it looks.",
-    price: 500,
+    price: 600,
     images: ["/images/cakes/marble-cake.jpg"],
     category: "special",
     quantity: "1 pound (455gm)"
