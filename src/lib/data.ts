@@ -132,7 +132,7 @@ export const products: Product[] = [
     id: "walnut-choco-fudge-brownie",
     name: "Walnut Choco Fudge Brownie",
     description: "Rich chocolate brownies loaded with walnuts. Fudgy and decadent.",
-    price: 575,
+    price: 600,
     images: ["/images/cakes/walnut-choco-fudge-brownie.jpg"],
     category: "cupcakes, brownies, tarts",
     quantity: "1 pound (455gm)"
@@ -277,7 +277,7 @@ export const products: Product[] = [
     id: "vanilla",
     name: "Vanilla Cake",
     description: "Simple yet divine! Our vanilla cake is made with real vanilla pods for authentic flavor. Perfect for those who appreciate the subtle beauty of classic flavors.",
-    price: 500,
+    price: 450,
     images: ["/images/cakes/vanilla.jpg"],
     category: "classic",
     quantity: "1 pound (455gm)"
