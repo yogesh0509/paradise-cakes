@@ -249,7 +249,7 @@ export const products: Product[] = [
     id: "chocolate-truffle",
     name: "Chocolate Truffle Cake",
     description: "Decadent homemade chocolate truffle cake with layers of moist chocolate sponge and rich ganache. Made with premium cocoa for that perfect melt-in-your-mouth experience.",
-    price: 600,
+    price: 650,
     images: ["/images/cakes/chocolate-truffle.jpg"],
     category: "classic",
     featured: true,
@@ -277,7 +277,7 @@ export const products: Product[] = [
     id: "vanilla",
     name: "Vanilla Cake",
     description: "Simple yet divine! Our vanilla cake is made with real vanilla pods for authentic flavor. Perfect for those who appreciate the subtle beauty of classic flavors.",
-    price: 450,
+    price: 500,
     images: ["/images/cakes/vanilla.jpg"],
     category: "classic",
     quantity: "1 pound (455gm)"
@@ -306,7 +306,7 @@ export const products: Product[] = [
     id: "dry-fruit",
     name: "Dry Fruit Cake",
     description: "A traditional Indian favorite loaded with premium nuts and dry fruits. Each bite offers the richness of cashews, almonds, raisins and more. Perfect with evening chai!",
-    price: 400,
+    price: 480,
     images: ["/images/cakes/dry-fruit.jpg"],
     category: "indian specials",
     quantity: "1 pound (455gm)"
@@ -315,7 +315,7 @@ export const products: Product[] = [
     id: "tutti-frutti",
     name: "Tutti Frutti Cake",
     description: "Nostalgic cake with colorful tutti frutti in every slice! This childhood favorite brings back memories of local bakeries and special treats.",
-    price: 375,
+    price: 425,
     images: ["/images/cakes/tutti-frutti.jpg"],
     category: "special",
     quantity: "1 pound (455gm)"
@@ -324,7 +324,7 @@ export const products: Product[] = [
     id: "suji-coconut-malai",
     name: "Suji Coconut Malai Cake",
     description: "A tropical delight with fresh coconut and malai cream! This uniquely Indian fusion cake celebrates the rich flavors of fresh coconut and creamy malai.",
-    price: 500,
+    price: 600,
     images: ["/images/cakes/coconut-malai.jpg"],
     category: "indian specials",
     quantity: "1 pound (455gm)"
@@ -342,7 +342,7 @@ export const products: Product[] = [
     id: "walnut-banana",
     name: "Walnut Banana Cake",
     description: "Moist banana cake studded with crunchy walnuts. Made with ripe bananas for natural sweetness and a touch of cinnamon for warmth.",
-    price: 500,
+    price: 600,
     images: ["/images/cakes/walnut-banana.jpg"],
     category: "special",
     quantity: "1 pound (455gm)"
@@ -432,7 +432,7 @@ export const products: Product[] = [
     id: "stuffed-garlic-bread",
     name: "Stuffed Garlic Bread",
     description: "Soft homemade bread loaded with garlic butter, stuffed with corn, cheese and herbs. Baked till golden and served with our special dip. A perfect snack or side!",
-    price: 150,
+    price: 175,
     images: ["/images/snacks/garlic-bread.jpg"],
     category: "snacks",
     quantity: "1"
